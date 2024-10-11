@@ -75,11 +75,12 @@ O aplicativo Dash exibe os dados coletados pelo ESP32 em gráficos interativos.
 # 🌐 Acesse o Projeto no Wokwi
 
 Explore o projeto interativo diretamente no Wokwi:
+![image](https://github.com/user-attachments/assets/27f63f00-621c-4166-aadd-9b3c8ff0c4c8)
 
 [![Explore o Projeto](./Untitled.png)](https://wokwi.com/projects/409782957418769409)
 
 [**🌟 Acesse o Projeto no Wokwi**](https://wokwi.com/projects/409782957418769409)
-
+   
 ---
 
 ## 👩‍💻 Desenvolvedores
