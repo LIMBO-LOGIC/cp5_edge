@@ -39,7 +39,7 @@ O aplicativo Dash exibe os dados coletados pelo ESP32 em gráficos interativos.
 
 - Um módulo ESP32.
 - Um sensor DHT22 para medir temperatura e umidade.
-- Um sensor de luminosidade (pode ser um potenciômetro).
+- Um sensor de luminosidade (LDR).
 - Acesso a uma rede Wi-Fi.
 - Instalação das bibliotecas necessárias (ex.: `WiFi`, `PubSubClient`, `DHT`, `Dash` e `Plotly`).
 
